@@ -1,5 +1,6 @@
-[
-   "postos":  {
+{
+"posto": [
+    {
     "_id":1,
     "gasStation": "Posto Novo",
     "city": "Recife",
@@ -98,3 +99,4 @@
     "longitude": -172.372406
   }
 ]
+}
